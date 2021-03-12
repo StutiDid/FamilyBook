@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+  }  
+  .header
+  {
+    font-weight:bold;
+    font-size:30px;
+  }
+  
+  
+  
+  /*style for image tag*/
+  #album
+  {
+   
+    border-bottom: 3px solid #689F38;   
+    padding: 2px;
+    
+    height: 400px;
